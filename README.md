@@ -1,6 +1,6 @@
 Unit 10 Homework: Surf’s Up
 
-![surfs-up.png](Images/surfs-up.png)]
+![surfs-up.png](Images/surfs-up.png)
 
 ## Before You Begin
 
