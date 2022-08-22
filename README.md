@@ -1,4 +1,6 @@
-K# Unit 10 Homework: Surf’s Up
+Unit 10 Homework: Surf’s Up
+
+![surfs-up.png](Images/surfs-up.png)]
 
 ## Before You Begin
 
@@ -10,8 +12,6 @@ K# Unit 10 Homework: Surf’s Up
 
 4. Push the changes to GitHub or GitLab.
 
-![surfs-up.png](Images/surfs-up.png)
-](I
 ## Instructions
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following sections outline the steps you must take to accomplish this task.
